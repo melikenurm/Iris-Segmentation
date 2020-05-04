@@ -1,0 +1,7 @@
+irisrec.m -> Ýris Segmentasyonu main fonksiyonu
+thresh.m -> ön iþlemler ve eþikleme yapan fonksiyon
+partiald.m -> kýsmi türev fonksiyonu
+lineint.m -> dairesel integrali bulan fonksiyon
+search.m -> göz bebeði merkezini ve yarýçapýný bulan fonksiyon
+
+-m.nur
